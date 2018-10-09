@@ -9,6 +9,7 @@
     "babel-runtime": "^6.26.0",
     "bcrypt": "^0.8.7",
     "bignumber.js": "^4.1.0",
+    "core-js": "^2.5.3",
     "moment": "^2.18.1",
     "path": "^0.12.7",
     "solc": "^0.4.17",

@@ -1,9 +1,5 @@
-node_modules
-.meteor/local
-package.json
-
-package.json
-
-package.json
-
-package.json
+#node_modules
+#.meteor/local
+#package.json
+.idea
+#/settings.json

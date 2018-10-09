@@ -9,14 +9,21 @@ reactive-dict@1.1.9
 zenkogu:livescript-compiler
 meteorhacks:npm
 zardak:preludels
-shell-server@0.2.3
+shell-server@0.2.4
 fourseven:scss
 ethereum:web3@=0.18.3
 3stack:bignumber
-dynamic-import
+dynamic-import@0.1.3
 npm-container
 practicalmeteor:mocha
 #silentcicero:testrpc
-mongo                        # The database Meteor supports right now
-minimongo
+mongo@1.2.2                        # The database Meteor supports right now
+minimongo@1.3.2
 peerlibrary:assert
+mizzao:jquery-ui
+http
+standard-minifier-js
+standard-minifier-css
+kevohagan:sweetalert
+
+meteorhacks:picker
